@@ -1,0 +1,2 @@
+# MB-4PT100_MODBUS
+Módulo 4 canales PT100/PT1000 RS485
